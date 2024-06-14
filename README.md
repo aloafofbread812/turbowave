@@ -1,2 +1,2 @@
 # chillwave
-a chatting service that is basically better discord.
+a chatting service that is basically better and faster discord.
